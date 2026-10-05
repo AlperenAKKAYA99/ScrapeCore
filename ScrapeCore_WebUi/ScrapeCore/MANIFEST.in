@@ -1,0 +1,12 @@
+include LICENSE
+include *.db
+include *.js
+include scrapecore/*.db
+include scrapecore/*.db*
+include scrapecore/*.db-*
+include scrapecore/py.typed
+include scrapecore/.scrapecore_dependencies_installed
+include .scrapecore_dependencies_installed
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]

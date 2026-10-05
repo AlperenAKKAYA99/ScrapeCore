@@ -1,0 +1,28 @@
+
+# Added by GitHub Fork Manager
+node_modules/
+.git/
+.env
+.env.local
+.env.production
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+dist/
+build/
+.vscode/
+.idea/
+*.log
+.cache/
+coverage/
+github_fork/
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Added by GitHub Fork Manager
+scrapecore.egg-info/
+sessions/
